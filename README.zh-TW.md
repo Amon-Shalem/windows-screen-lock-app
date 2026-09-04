@@ -86,10 +86,13 @@
 
 ## 📥 執行檔下載
 
-| 版本類型 | 檔案大小 | 系統需求 | 推薦使用情境 |
+您可以前往 [GitHub Releases 最新發布頁](https://github.com/Amon-Shalem/windows-screen-lock-app/releases/latest) 下載預先編譯好的執行檔：
+
+| 版本類型 | 檔案大小 | 系統需求 | 下載連結 |
 | :--- | :--- | :--- | :--- |
-| **[Setup 完整版 / 獨立免安裝版](publish/setup/CustomScreenLocker_Setup.exe)** | ~170 MB | Windows 10/11 (64-bit) | **推薦大多數使用者。** 內建完整 .NET 9 執行階段，開箱即用，無需安裝任何額外環境依賴。 |
-| **[Portable 可攜式極致輕量版](publish/portable/CustomScreenLocker_Portable.exe)** | ~359 KB | [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/9.0) | **極致輕巧。** 適合本機已安裝 .NET 9 或追求極致輕量與極低磁碟佔用的使用者。 |
+| **Setup 完整版 / 獨立免安裝版** | ~170 MB | Windows 10/11 (64-bit) | [⬇️ **下載 CustomScreenLocker_Setup.exe**](https://github.com/Amon-Shalem/windows-screen-lock-app/releases/latest/download/CustomScreenLocker_Setup.exe) |
+| **Portable 可攜式極致輕量版** | ~359 KB | [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/9.0) | [⬇️ **下載 CustomScreenLocker_Portable.exe**](https://github.com/Amon-Shalem/windows-screen-lock-app/releases/latest/download/CustomScreenLocker_Portable.exe) |
+| **Portable 完整包 (含自訂語言範本 .zip)** | ~365 KB | [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/9.0) | [📦 **下載 CustomScreenLocker_v1.0.0_Portable.zip**](https://github.com/Amon-Shalem/windows-screen-lock-app/releases/latest/download/CustomScreenLocker_v1.0.0_Portable.zip) |
 
 ---
 

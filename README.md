@@ -86,10 +86,13 @@ When you need to step away from your desk while keeping long-running simulations
 
 ## 📥 Downloads
 
-| Edition | Size | Requirements | Recommended Use |
+Grab the latest compiled binaries from the [GitHub Releases](https://github.com/Amon-Shalem/windows-screen-lock-app/releases/latest) page:
+
+| Edition | Size | Requirements | Download Link |
 | :--- | :--- | :--- | :--- |
-| **[Setup / Standalone Edition](publish/setup/CustomScreenLocker_Setup.exe)** | ~170 MB | Windows 10/11 (64-bit) | **Recommended for most users.** Self-contained bundle with full .NET 9 runtime included. No prerequisites needed. |
-| **[Portable Lightweight Edition](publish/portable/CustomScreenLocker_Portable.exe)** | ~359 KB | [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/9.0) | **Ultra-compact.** Ideal for users with .NET 9 already installed or running on resource-constrained systems. |
+| **Setup / Standalone Edition** | ~170 MB | Windows 10/11 (64-bit) | [⬇️ **Download CustomScreenLocker_Setup.exe**](https://github.com/Amon-Shalem/windows-screen-lock-app/releases/latest/download/CustomScreenLocker_Setup.exe) |
+| **Portable Lightweight Edition** | ~359 KB | [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/9.0) | [⬇️ **Download CustomScreenLocker_Portable.exe**](https://github.com/Amon-Shalem/windows-screen-lock-app/releases/latest/download/CustomScreenLocker_Portable.exe) |
+| **Portable Bundle (.zip with locales)** | ~365 KB | [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/9.0) | [📦 **Download CustomScreenLocker_v1.0.0_Portable.zip**](https://github.com/Amon-Shalem/windows-screen-lock-app/releases/latest/download/CustomScreenLocker_v1.0.0_Portable.zip) |
 
 ---
 
