@@ -1,0 +1,16 @@
+<Window x:Class="CustomScreenLocker.SecondaryBlankWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Screen Locked - Secondary"
+        WindowStyle="None"
+        WindowState="Normal"
+        Topmost="True"
+        ResizeMode="NoResize"
+        ShowInTaskbar="False"
+        Background="#08090C"
+        Cursor="Arrow">
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"
+                   Text="🔒 螢幕已鎖定" Foreground="#374151" FontSize="24" FontWeight="Light"/>
+    </Grid>
+</Window>

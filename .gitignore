@@ -1,0 +1,27 @@
+## Build and publish outputs
+[Bb]in/
+[Oo]bj/
+publish/
+dist/
+out/
+
+## Visual Studio & JetBrains Rider
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.idea/
+.vscode/
+
+## Temporary scripts and test data
+scripts/tmp/
+*.log
+*.tmp
+*.bak
+
+## OS generated files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
